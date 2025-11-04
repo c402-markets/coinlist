@@ -1,5 +1,8 @@
 # List your coin
 
+> **⚠️ Note:**
+> This repository isn't for launching new coins on c402.markets. It's for proposing new quote tokens that c402 coins can pair with on the platform.
+
 The structure of the repository speaks for itself. Create a pull request to add your coin, using exactly the same format as for $PING, including:
 
 1.	All fields in the JSON file are mandatory.
