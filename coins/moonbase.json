@@ -1,0 +1,9 @@
+{
+  "ca": "0xd4306991f8a5CEF2d2bCB3262224dEd11BD18baD",
+  "name": "Moonbase",
+  "symbol": "MOONBASE",
+  "decimals": 18,
+  "pool": "0x9B30ABe9A033A81359ED5A900C0Ac55d41296eF5",
+  "description": "The first memecoin deployed on Base.",
+  "social": "https://x.com/TOKENMOONBASE"
+}
